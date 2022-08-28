@@ -359,7 +359,32 @@ section .title::before{
     color: #333;
 }
 
-
+/* Footer styling */
+.social-media{
+    height: 20px;
+    text-align: center;
+}
+.social-media .media-icons{
+    padding: 10px;
+    padding-top: 10px;
+    font-size: 30px;
+    color: #111;
+}
+.social-media .media-icons .fa-facebook{
+    color: #111;
+}
+.social-media .media-icons .fa-instagram{
+    color: #111;
+}
+.social-media .media-icons .fa-github{
+    color: #111;
+}
+.social-media .media-icons .fa-linkedin{
+    color: #111;
+}
+.social-media .media-icons .fa-twitter{
+    color: #111;
+}
 
 /* responsive media query start */
 @media (max-width: 1300px) {
@@ -460,6 +485,9 @@ section .title::before{
     }
     .skills .skills-content .right{
         padding-top: 0px;
+    }
+    .contact .contact-content .column{
+        width: 100%;
     }
 }
 
