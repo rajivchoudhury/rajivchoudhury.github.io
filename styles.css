@@ -185,7 +185,7 @@ section .title::before{
     text-align: justify;
 }
 
-.about .about-content .right a{
+.about .about-content .right .button{
     display: inline-block;
     background: crimson;
     color: #fff;
@@ -234,6 +234,10 @@ section .title::before{
     font-size: 25px;
     font-weight: 500;
     margin: 10px 0 7px 0;
+}
+.projects .project-content .card .desc{
+    padding-top: 10px;
+    text-align: left;
 }
 
 
@@ -360,30 +364,55 @@ section .title::before{
 }
 
 /* Footer styling */
+.social{
+    background-color: #111;
+    padding: 20px;
+}
 .social-media{
     height: 20px;
     text-align: center;
+    background-color: #111;
 }
 .social-media .media-icons{
     padding: 10px;
     padding-top: 10px;
     font-size: 30px;
-    color: #111;
+    color: #fff;
 }
 .social-media .media-icons .fa-facebook{
-    color: #111;
+    color: #fff;
 }
 .social-media .media-icons .fa-instagram{
-    color: #111;
+    color: #fff;
 }
 .social-media .media-icons .fa-github{
-    color: #111;
+    color: #fff;
 }
 .social-media .media-icons .fa-linkedin{
-    color: #111;
+    color: #fff;
 }
 .social-media .media-icons .fa-twitter{
-    color: #111;
+    color: #fff;
+}
+.social-media .media-icons .fa-facebook:hover{
+    transform: scale(1.10);
+    transition: all 0.3s ease;
+}
+.social-media .media-icons .fa-instagram:hover{
+    transform: scale(1.10);
+    transition: all 0.3s ease;
+}
+.social-media .media-icons .fa-github:hover{
+    transform: scale(1.10);
+    transition: all 0.3s ease;
+}
+.social-media .media-icons .fa-linkedin:hover{
+    transform: scale(1.10);
+    transition: all 0.3s ease;
+}
+.social-media .media-icons .fa-twitter:hover{
+    transform: scale(1.10);
+    transition: all 0.3s ease;
 }
 
 /* responsive media query start */
