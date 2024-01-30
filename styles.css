@@ -198,6 +198,10 @@ section .title::before{
     cursor: pointer;
 }
 
+.non-button{
+    font-style: normal;
+}
+
 .about .about-content .right a:hover{
     color: crimson;
     background-color: #fff;
@@ -488,7 +492,7 @@ section .title::before{
     }
     .projects .project-content .card{
         width: calc(50% - 10px);
-        margin-bottom: 20px;
+        margin-bottom: 20px;  
     }
 }
 
