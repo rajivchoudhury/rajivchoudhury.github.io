@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Projects on Rajiv Choudhury</title>
+    <link>https://rajivchoudhury.github.io/projects/</link>
+    <description>Recent content in Projects on Rajiv Choudhury</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://rajivchoudhury.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BCI Application</title>
+      <link>https://rajivchoudhury.github.io/projects/classification-sim/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rajivchoudhury.github.io/projects/classification-sim/</guid>
+      <description>Simulates a GUI which helps for navigation using EEG device as an input.</description>
+    </item>
+    
+    <item>
+      <title>Fashion Recommender System</title>
+      <link>https://rajivchoudhury.github.io/projects/fashion-recommder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rajivchoudhury.github.io/projects/fashion-recommder/</guid>
+      <description>Recommends fashion based on an input image.</description>
+    </item>
+    
+    <item>
+      <title>Tic Tac Toe Game</title>
+      <link>https://rajivchoudhury.github.io/projects/tic-tac-toe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rajivchoudhury.github.io/projects/tic-tac-toe/</guid>
+      <description>2-player Tic-Tac-Toe Game.</description>
+    </item>
+    
+    <item>
+      <title>Employee Management System</title>
+      <link>https://rajivchoudhury.github.io/projects/employee-mangement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rajivchoudhury.github.io/projects/employee-mangement/</guid>
+      <description>GUI which helps admin manage the details of employees.</description>
+    </item>
+    
+  </channel>
+</rss>
