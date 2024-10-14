@@ -1,0 +1,104 @@
+baseURL: "https://rajivchoudhury.github.io/"
+languageCode: en-us
+title: Rajiv Choudhury
+theme: PaperMod
+icon: "favicon.ico"
+
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 10
+    - identifier: experience
+      name: Experience
+      url: /experience
+      weight: 20
+    - identifier: blog
+      name: Blog
+      url: /blog
+      weight: 30
+    - identifier: projects
+      name: Projects
+      url: /projects
+      weight: 40
+    - identifier: search
+      name: Search
+      url: /search
+      weight: 50
+    # - identifier: tags
+    #   name: Tags
+    #   url: /tags
+    #   weight: 60
+    # - identifier: notes
+    #   name: Notes
+    #   url: https://notes.arkalim.org
+    #   weight: 70
+
+params:
+  # theme
+  showToc: true
+  TocOpen: false
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  hideMeta: false
+
+  # for enchanced SEO
+  env: production
+
+  # Home Page
+  profileMode:
+    enabled: true
+    title: "Rajiv Choudhury"
+    subtitle: Hi 👋 I'm Rajiv, an engineer. As a Software Engineer at Samsung R&D Institute India - Delhi, I develop applications for commercial TVs build on Tizen operating system. Apart from tech, I also love traveling and working out. I have made few travel-plans which you find it useful under travel tab. I'm working out on the new tech-related projects which will be coming out soon (fingers-crossed)
+
+ 
+    imageUrl: "home/Profile-face-zoomed-coat.jpg"
+    imageWidth: 220
+    imageHeight: 220
+    buttons:
+      - name: Resume
+        url: "/home/resume.pdf"
+
+  # List View
+  hideDescriptionInList: false
+
+  # cover image for posts
+  cover:
+    hiddenInList: false # hide on list pages and home
+    hiddenInSingle: false # hide on single page
+
+  socialIcons:
+    - name: "email"
+      url: "mailto:rajivchoudhury9@gmail.com"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/rajiv-choudhury"
+    - name: "github"
+      url: "https://github.com/rajivchoudhury"
+
+  # text search
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
+  meta:
+    favicon: false
+    svg: false
+
+# for search using Fuse.js
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+# allow HTML in MD
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
