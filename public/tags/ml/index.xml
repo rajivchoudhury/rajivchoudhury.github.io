@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>ML on Rajiv Choudhury</title>
-    <link>https://rajivchoudhury.github.io/tags/ml/</link>
+    <link>http://localhost:1313/tags/ml/</link>
     <description>Recent content in ML on Rajiv Choudhury</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://rajivchoudhury.github.io/tags/ml/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://localhost:1313/tags/ml/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>BCI Application</title>
-      <link>https://rajivchoudhury.github.io/projects/classification-sim/</link>
+      <link>http://localhost:1313/projects/classification-sim/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rajivchoudhury.github.io/projects/classification-sim/</guid>
+      <guid>http://localhost:1313/projects/classification-sim/</guid>
       <description>Simulates a GUI which helps for navigation using EEG device as an input.</description>
     </item>
     
     <item>
       <title>Fashion Recommender System</title>
-      <link>https://rajivchoudhury.github.io/projects/fashion-recommder/</link>
+      <link>http://localhost:1313/projects/fashion-recommder/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rajivchoudhury.github.io/projects/fashion-recommder/</guid>
+      <guid>http://localhost:1313/projects/fashion-recommder/</guid>
       <description>Recommends fashion based on an input image.</description>
     </item>
     
     <item>
       <title>Project Assistant Intern</title>
-      <link>https://rajivchoudhury.github.io/experience/iiit-guwahati/</link>
+      <link>http://localhost:1313/experience/iiit-guwahati/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rajivchoudhury.github.io/experience/iiit-guwahati/</guid>
+      <guid>http://localhost:1313/experience/iiit-guwahati/</guid>
       <description>IIIT Guwahati</description>
     </item>
     

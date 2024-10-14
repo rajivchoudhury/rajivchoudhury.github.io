@@ -2,70 +2,70 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://rajivchoudhury.github.io/projects/classification-sim/</loc>
+    <loc>http://localhost:1313/projects/classification-sim/</loc>
   </url><url>
-    <loc>https://rajivchoudhury.github.io/projects/fashion-recommder/</loc>
+    <loc>http://localhost:1313/projects/fashion-recommder/</loc>
   </url><url>
-    <loc>https://rajivchoudhury.github.io/projects/tic-tac-toe/</loc>
+    <loc>http://localhost:1313/projects/tic-tac-toe/</loc>
   </url><url>
-    <loc>https://rajivchoudhury.github.io/projects/employee-mangement/</loc>
+    <loc>http://localhost:1313/projects/employee-mangement/</loc>
   </url><url>
-    <loc>https://rajivchoudhury.github.io/experience/samsung/</loc>
+    <loc>http://localhost:1313/experience/samsung/</loc>
   </url><url>
-    <loc>https://rajivchoudhury.github.io/experience/iisc-cni/</loc>
+    <loc>http://localhost:1313/experience/iisc-cni/</loc>
   </url><url>
-    <loc>https://rajivchoudhury.github.io/experience/iiit-guwahati/</loc>
+    <loc>http://localhost:1313/experience/iiit-guwahati/</loc>
   </url><url>
-    <loc>https://rajivchoudhury.github.io/tags/ai/</loc>
+    <loc>http://localhost:1313/tags/ai/</loc>
   </url><url>
-    <loc>https://rajivchoudhury.github.io/tags/bci/</loc>
+    <loc>http://localhost:1313/tags/bci/</loc>
   </url><url>
-    <loc>https://rajivchoudhury.github.io/tags/c%23/</loc>
+    <loc>http://localhost:1313/tags/c%23/</loc>
   </url><url>
-    <loc>https://rajivchoudhury.github.io/tags/c&#43;&#43;/</loc>
+    <loc>http://localhost:1313/tags/c&#43;&#43;/</loc>
   </url><url>
-    <loc>https://rajivchoudhury.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://rajivchoudhury.github.io/tags/clustering/</loc>
+    <loc>http://localhost:1313/tags/clustering/</loc>
   </url><url>
-    <loc>https://rajivchoudhury.github.io/tags/cuda/</loc>
+    <loc>http://localhost:1313/tags/cuda/</loc>
   </url><url>
-    <loc>https://rajivchoudhury.github.io/tags/dbms/</loc>
+    <loc>http://localhost:1313/tags/dbms/</loc>
   </url><url>
-    <loc>https://rajivchoudhury.github.io/tags/dotnet/</loc>
+    <loc>http://localhost:1313/tags/dotnet/</loc>
   </url><url>
-    <loc>https://rajivchoudhury.github.io/experience/</loc>
+    <loc>http://localhost:1313/experience/</loc>
   </url><url>
-    <loc>https://rajivchoudhury.github.io/tags/interoperability/</loc>
+    <loc>http://localhost:1313/tags/interoperability/</loc>
   </url><url>
-    <loc>https://rajivchoudhury.github.io/tags/java/</loc>
+    <loc>http://localhost:1313/tags/java/</loc>
   </url><url>
-    <loc>https://rajivchoudhury.github.io/tags/ml/</loc>
+    <loc>http://localhost:1313/tags/ml/</loc>
   </url><url>
-    <loc>https://rajivchoudhury.github.io/tags/mlpclassifier/</loc>
+    <loc>http://localhost:1313/tags/mlpclassifier/</loc>
   </url><url>
-    <loc>https://rajivchoudhury.github.io/tags/mysql/</loc>
+    <loc>http://localhost:1313/tags/mysql/</loc>
   </url><url>
-    <loc>https://rajivchoudhury.github.io/tags/paper/</loc>
+    <loc>http://localhost:1313/tags/paper/</loc>
   </url><url>
-    <loc>https://rajivchoudhury.github.io/projects/</loc>
+    <loc>http://localhost:1313/projects/</loc>
   </url><url>
-    <loc>https://rajivchoudhury.github.io/tags/python/</loc>
+    <loc>http://localhost:1313/tags/python/</loc>
   </url><url>
-    <loc>https://rajivchoudhury.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
   </url><url>
-    <loc>https://rajivchoudhury.github.io/tags/research/</loc>
+    <loc>http://localhost:1313/tags/research/</loc>
   </url><url>
-    <loc>https://rajivchoudhury.github.io/tags/resnet/</loc>
+    <loc>http://localhost:1313/tags/resnet/</loc>
   </url><url>
-    <loc>https://rajivchoudhury.github.io/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
   </url><url>
-    <loc>https://rajivchoudhury.github.io/tags/streamlit/</loc>
+    <loc>http://localhost:1313/tags/streamlit/</loc>
   </url><url>
-    <loc>https://rajivchoudhury.github.io/tags/swing/</loc>
+    <loc>http://localhost:1313/tags/swing/</loc>
   </url><url>
-    <loc>https://rajivchoudhury.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url><url>
-    <loc>https://rajivchoudhury.github.io/tags/tkinter/</loc>
+    <loc>http://localhost:1313/tags/tkinter/</loc>
   </url>
 </urlset>
