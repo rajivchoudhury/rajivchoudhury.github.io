@@ -1,6 +1,1 @@
-# rajivchoudhury.github.io
-
-
-commands to run:
-- git submodule update --init --recursive
-- hugo -D
+# <a href="https://rajivchoudhury.netlify.app"> site </a>
