@@ -1,0 +1,10 @@
+{
+  "title": "About Me",
+  "paragraphs": [
+    "Hi, I’m Rajiv. I am a Computer Science graduate from IIIT Guwahati and am currently working as a Software Engineer at Samsung R&D Institute India - Delhi.",
+    "I will be joining the University of California, Davis as a Master of Science student in Computer Science starting Fall 2026. My research interests include parallel computing, on-device AI, and Brain-Computer Interface (BCI) systems.",
+    "My core engineering and research interests lie at the intersection of parallel computing and IoT/embedded devices. I am highly focused on enhancing Machine Learning inference efficiency on constrained hardware, such as smart watches, TVs, and digital appliances. Throughout my career, I have built a strong foundation in on-device AI, embedded systems, and energy-efficient computing.",
+    "I have experience developing optimized AI systems and conducting research on high-performance computing workloads and GPU scheduling with IISc Bengaluru and IBM Research. Furthermore, I am deeply interested in Brain-Computer Interface (BCI) systems, having previously worked on EEG signal analysis and classification to build assistive technologies.",
+    "Outside of building software and reading research papers, my personal interests include bike riding through the mountains, weight lifting, and going on long car drives."
+  ]
+}

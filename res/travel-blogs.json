@@ -1,0 +1,19 @@
+[
+  {
+    "title": "Spiti Expedition",
+    "date": "April 2025",
+    "Images": ["./data/travel-blogs/blog1/img1.jpg", "./data/travel-blogs/blog1/img2.jpg"],
+    "description": "An exhilarating bike expedition through the rugged terrains of Spiti Valley, showcasing the breathtaking landscapes and cultural richness of the region. It was my first long bike trip. The plan started with just 2 members but till the final day, people kept on adding, and in the end we were 10 members on 6 bikes. The enjoyment on that trip will never be forgotten. We started from Chandigardh and took the route through Shimla, Kinnaur, and then to Spiti. The roads were challenging but the views were worth every bump. We explored places like Kaza, Tabo Monastery, and Nako. The camaraderie among the group and the shared experiences made it an unforgettable adventure."
+  },
+  {
+    "title": "Harshil Valley Trip",
+    "date": "May 2026",
+    "description": "An impromptu trip to Harshil Valley with friends. I had a holiday on my office and I was not sure where to go but I was sure and I'm not staying at my home. Some of my friends of friends were going to Harshil in their car, so I planned to join them. They had taken a drone so we had taken some amazing shots in this trip. The serence beauty of Harshil Valley was a perfect escape from the hustle and bustle of city life. We spent our days exploring the lush green meadows, crystal-clear rivers, and majestic mountains that surrounded us. The tranquility of the valley provided a much-needed respite, allowing us to reconnect with nature and each other. We did a small trek of 1km to a place called \"Garthan Gulley\", which was a important bridge used earlier for trading between India and Tibet. It was just built with woods currently due to increase of tourists, they have put Iron rods below the wooden bridge to make it more sturdy. After that we visited the holy Gangotri where the Bhagirathi river originates which eventually becomes the Holy Ganga river."
+  },
+  {
+    "title": "Tungnath Trek",
+    "date": "Oct 2025",
+    "Images": ["./data/travel-blogs/blog3/img1.jpg", "./data/travel-blogs/blog3/img2.jpg", "./data/travel-blogs/blog3/img3.jpg", "./data/travel-blogs/blog3/img4.jpg"],
+    "description": "I took this trek as a part of getting to know myself, if I can climb mountains and what difficulities I face while doing so. I reached the starting point of the trek by riding my own bike from Delhi. It was a long ride of nearly 400 kms. After completing the ride, we were not sure where to stay as we had not booked any place to stay and Chopta (The base point of trek) was not a village, it was commercialized place where we were asked for 4000 INR rooms which do not even have toilets. Luckily we were able to get a camping tent for 3500 INR for 3 people. The next day, we started the trek at 9am after having our breakfast. Although the trek was steep where we climbed nearly 900 meters high in 4km, it was not that difficult for me. I was able to complete the trek in about 3 hours. The views from the top were breathtaking, with panoramic vistas of the surrounding mountains and valleys. We spent some time at the top, soaking in the beauty and tranquility of the place before descending back to our campsite. The trek was a great experience, testing my physical endurance and mental strength, while also rewarding me with stunning natural beauty and a sense of accomplishment."
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "name": "Rajiv Choudhury",
+  "role": "Software Engineer",
+  "image": "./data/profile.png",
+  "resume": "./data/Resume.pdf",
+
+  "socials": [
+    {
+      "name": "GitHub",
+      "url": "https://github.com/rajivchoudhury"
+    },
+    {
+        "name": "Email",
+        "url": "mailto:rajivchoudhury9@gmail.com"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/rajiv-choudhury"
+    },
+    {
+      "name": "Google Scholar",
+      "url": "https://scholar.google.com/citations?user=Rfy2FlgAAAAJ&hl=en&oi=ao"
+    }
+  ]
+}
