@@ -1,0 +1,25 @@
+[
+  {
+    "title": "Personal Portfolio Website",
+    "date": "Jun 2026",
+    "description": "A personal portfolio website built using HTML, CSS, and JavaScript to showcase my projects and skills.",
+    "link": "https://rajivchoudhury.github.io/"
+  },
+  {
+    "title": "On-Device Whisper AI Assistant",
+    "date": "Oct 2025",
+    "description": "Developed an on-device AI feature integrating OpenAI's Whisper model for offline speech-to-text transcription on Android Interactive Displays. Optimized inference pipeline for low-latency performance, contributing to Samsung's AI Assistant project. Built using Kotlin, Jetpack Compose, C++, and Whisper."
+  },
+  {
+    "title": "Classification Simulation (Brain Signal Analysis)",
+    "date": "Aug 2022",
+    "description": "Engineered a TRL-4 prototype to classify EEG brain signals using MLPClassifier, enabling patients with motor neuron disease to communicate with their environment. Utilized EMOTIV INSIGHT hardware for real-time data collection, classifying test data with 90% accuracy. Built using Python and Tkinter.",
+    "link": "https://github.com/rajivchoudhury/Classification"
+  },
+  {
+    "title": "Fashion Recommender",
+    "date": "Nov 2022",
+    "description": "Created an application to recommend fashion products using a pre-trained ResNet model trained on over 1 million images. Implemented a K-Nearest Neighbors algorithm for image similarity, achieving 98% prediction accuracy. Built using Python, Streamlit, and TensorFlow.",
+    "link": "https://github.com/rajivchoudhury/fashion-recommender"
+  }
+]

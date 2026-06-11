@@ -208,7 +208,7 @@ async function loadBlogs(path, targetId) {
                                         href="${blog.link}"
                                         target="_blank"
                                         class="text-link">
-                                        Read More
+                                        Link to project
                                     </a>
                                   `
                                 : ""
@@ -485,8 +485,8 @@ document.addEventListener(
             loadPublications(),
 
             loadBlogs(
-                "./res/tech-blogs.json",
-                "tech-blogs-content"
+                "./res/projects.json",
+                "projects-content"
             ),
 
             loadBlogs(
