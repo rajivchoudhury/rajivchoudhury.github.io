@@ -3,18 +3,18 @@
     "institute": "University of California, Davis",
     "degree": "Master of Science (Computer Science)",
     "duration": "Fall 2026",
-    "description": "Incoming graduate student."
+    "description": "Courses taken in Fall 2026: ECS 231 (Large-Scale Scientific Computation), ECS 240 (Programming Languages). Planning to take ECS 201A (Adavanced Computer Architecture) in Winter Quarter."
   },
   {
     "institute": "Indian Institute of Information Technology (IIIT) Guwahati",
     "degree": "Computer Science and Engineering",
     "duration": "Dec 2020 - May 2024",
-    "description": "Graduated with top 5% of the department."
+    "description": "Graduated with top 5% of the department. Relevant Courseworks done: Data Structures & Alogorithms, Operating Systems, Computer Organisation, Theory of Computation, Machine Learning, Deep Learning, Computer Networks, Computer Security, Databases, Cloud Computing Workshop."
   },
   {
     "institute": "MBS Public School, Bhubanewar",
     "degree": "High School in Science",
     "duration": "Mar 2018 - Mar 2020",
-    "description": "Completed high school with a focus on science and mathematics."
+    "description": "Completed high school with a focus on Physics, Chemistry and Mathematics."
   }
 ]
